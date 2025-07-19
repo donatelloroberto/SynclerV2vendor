@@ -1,0 +1,88 @@
+{
+  "_manifest": {
+    "name": "GayPornScraper",
+    "id": "GayPorn.Sites",
+    "version": 2,
+    "classPath": "bouncy.BouncyProviderPackage",
+    "permaUrl": "https://example.com/GayPornScraper.json"
+  },
+  "providers": [
+    {
+      "name": "ManPorn",
+      "id": "manporn",
+      "languages": [
+        "en"
+      ],
+      "type": "kosmos",
+      "enabled": true,
+      "base_url": "https://manporn.xxx",
+      "description": "WordPress-based tube site with DoodStream embeds"
+    },
+    {
+      "name": "NeedGayPorn",
+      "id": "needgayporn",
+      "languages": [
+        "en"
+      ],
+      "type": "kosmos",
+      "enabled": true,
+      "base_url": "https://needgayporn.com",
+      "description": "Aggregator site similar to ManPorn with embedded videos"
+    },
+    {
+      "name": "BoyfriendTV",
+      "id": "boyfriendtv",
+      "languages": [
+        "en"
+      ],
+      "type": "kosmos",
+      "enabled": true,
+      "base_url": "https://www.boyfriendtv.com",
+      "description": "Large standalone tube site with custom platform"
+    },
+    {
+      "name": "PornHoarder",
+      "id": "pornhoarder",
+      "languages": [
+        "en"
+      ],
+      "type": "kosmos",
+      "enabled": true,
+      "base_url": "https://pornhoarder.tv",
+      "description": "Content aggregation site with WordPress tube theme"
+    },
+    {
+      "name": "NurGay",
+      "id": "nurgay",
+      "languages": [
+        "en"
+      ],
+      "type": "kosmos",
+      "enabled": true,
+      "base_url": "https://nurgay.to",
+      "description": "Niche tube site with potential Cloudflare protection"
+    },
+    {
+      "name": "CineGay (inactive)",
+      "id": "cinegay",
+      "languages": [
+        "en"
+      ],
+      "type": "kosmos",
+      "enabled": false,
+      "base_url": "https://cinegay.net",
+      "description": "Inactive site - domain expired in 2019"
+    },
+    {
+      "name": "FXGGXT",
+      "id": "fxggxt",
+      "languages": [
+        "en"
+      ],
+      "type": "kosmos",
+      "enabled": true,
+      "base_url": "https://fxggxt.com",
+      "description": "OnlyFans/JustForFans aggregator with DoodStream hosting"
+    }
+  ]
+}
