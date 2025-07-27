@@ -3,8 +3,8 @@
     "name": "GayPornScraper",
     "id": "GayPorn.Sites",
     "version": 2,
-    "classPath": "bouncy.BouncyProviderPackage",
-    "permaUrl": "https://example.com/GayPornScraper.json"
+    "classPath": "GayPornScraper",
+    "permaUrl": "https://raw.githubusercontent.com/donatelloroberto/SynclerV2vendor/main/GayPornScraper.json"
   },
   "providers": [
     {
